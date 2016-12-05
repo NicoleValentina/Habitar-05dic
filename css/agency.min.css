@@ -10,6 +10,10 @@ body {
 .text-muted {
   color: #777777;
 }
+.text-white {
+  color: #f1f1f1;
+}
+
 .text-primary {
   color: #99cccc;
 }
@@ -19,6 +23,11 @@ p {
 }
 p.large {
   font-size: 16px;
+}
+.p-quotes {
+  font-size: 10px;
+  line-height: 1.2;
+  text-align: left;
 }
 a,
 a:hover,
